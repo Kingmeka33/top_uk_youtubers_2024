@@ -149,8 +149,7 @@ HAVING COUNT(*) > 1;
 ---
 
 ## 📊 Power BI Dashboard
-
-![Dashboard GIF or Screenshot](dashboard-preview.gif)  
+![Image](https://github.com/user-attachments/assets/1082554e-3a62-4069-a186-29edbd5def84)
 > Shows top UK YouTubers by subscribers, views, uploads, and engagement rates.
 
 ---
