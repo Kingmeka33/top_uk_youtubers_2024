@@ -58,7 +58,7 @@ Build a Power BI dashboard that provides insights on:
 2. Development (ETL)
 3. Testing
 4. Analysis
-
+<img width="672" height="400" alt="Image" src="https://github.com/user-attachments/assets/1220cc35-6765-4df8-b911-fd325212e927" />
 ---
 
 ## 🎨 Dashboard Design
