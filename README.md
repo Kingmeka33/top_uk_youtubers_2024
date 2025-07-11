@@ -1,7 +1,7 @@
 # 📊 Excel to Power BI: YouTube Channel Insights Dashboard (UK - 2024)
 
 A full-stack data portfolio project showcasing the transformation from Excel ➝ SQL ➝ Power BI to help a Marketing Team identify top-performing UK YouTubers for influencer campaigns.
-
+![Image](https://github.com/user-attachments/assets/b8308c51-964f-457e-8d9d-b79b31b5119c)
 ---
 
 ## 📌 Table of Contents
